@@ -48,7 +48,7 @@ Create investment-grade business analysis presentations in multiple professional
 **Best for:** Strategy presentations, board updates, complex problem-solving
 **Core:** Pyramid Principle + MECE + Data-driven
 
-### 李嘉英's 9-Step Business Model Analysis (Integrated)
+### 9-Step Business Model Analysis (Integrated)
 
 When analyzing platform business models, use this enhanced framework:
 
@@ -72,7 +72,7 @@ When analyzing platform business models, use this enhanced framework:
 - Value positioning & monetization for each tier
 - Tiered operation strategy
 
-**Step 5: Institutional Design Comparison** (李嘉英's Key Insight)
+**Step 5: Institutional Design Comparison** (Key Insight)
 
 Compare design options across these dimensions:
 
@@ -461,7 +461,7 @@ html, body {
 
 ---
 
-## Error Prevention Checklist (李嘉英's Lessons)
+## Error Prevention Checklist
 
 **Before Analysis:**
 1. **Pattern Abstraction** — What is the generic business model behind this case?
@@ -486,7 +486,7 @@ html, body {
 **After Analysis:**
 8. **Error Induction** — If errors occur, induct root causes (tabular format)
 9. **Update Skill** — Add new insights and error patterns to this skill
-10. **Archive Conversation** — Save to `memory/conversations/` for future reference
+10. **Archive Conversation** — Save to project memory for future reference
 
 ---
 
